@@ -22,7 +22,7 @@ This project implements a **Natural Language Interface** for the ROS 2 `turtlesi
 
     ```bash
     cd ~/ros2_ws/src
-    git clone https://github.com/YOUR_USERNAME/my_turtle_controller.git
+    git clone https://github.com/YOUR_USERNAME/my_turtle_controller.git](https://github.com/Sahniel07/my_turtle_controller.git
     ```
 
 2.  **Install Python dependencies:**
