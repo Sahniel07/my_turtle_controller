@@ -48,7 +48,6 @@ You need a **Google Gemini API Key** to run this node.
     ```bash
     export GOOGLE_API_KEY="your_actual_api_key_here"
     ```
-    *(Note: You may need to update the `smart_turtle.py` code to read `os.environ.get("GOOGLE_API_KEY")` if you haven't already).*
 
 ## 🐢 Usage
 
