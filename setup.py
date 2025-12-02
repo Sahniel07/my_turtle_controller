@@ -32,8 +32,7 @@ setup(
         'console_scripts': [
             'move_turtle = my_turtle_controller.move_turtle:main',
             'smart_turtle = my_turtle_controller.smart_turtle:main',
-            'tester = my_turtle_controller.tester:main',
-            'tester_2 = my_turtle_controller.tester_2:main',
+            'voice_tester = my_turtle_controller.voice_tester:main',
 
         ],
     },
